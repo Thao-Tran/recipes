@@ -87,7 +87,8 @@ videos at various steps.
 1. Combine all of the ingredients in a \> 500mL glass jar/container.
 2. Let the container sit in an environment with a consistent 78&deg;F ambient
    temperature, which I will refer to as the proofing environment, for 5-6 hours
-   or when the levain levels out and begins to fall.
+   or when the levain levels out and begins to fall. I use my oven with the
+   light on as my proofing environment.
 
 ### Autolyse
 Begin about 3.5 hours into the levain fermentation.
