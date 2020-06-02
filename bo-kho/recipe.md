@@ -59,3 +59,4 @@ another mixture of 2 tbsp of tabpioca and 1 cup of water and add to the stew
 a little bit at a time until thick enough.
 11. Mix ground black pepper into the stew and add fish sauce to taste. Let
 sit for abother 10 minutes.
+12. Serve on cooked pho noodles or just in a bowl with baguettes to dip.
