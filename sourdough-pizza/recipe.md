@@ -24,7 +24,7 @@ a general idea of what these instructions mean.
 ## Ingredients
 ### Dough (70% hydration)
 * 98g sourdough starter (14% inoculation)
-* 700g bread flour
+* 700g flour (either AP or bread flour; doesn't matter too much, but bread flour does make the pizza sturdier)
 * 490g water at 90&deg;F
 * 14g salt (2%)
 ### Sauce
@@ -40,6 +40,7 @@ a general idea of what these instructions mean.
 * 1 tsp sugar
 
 ## Procedure
+Start at least 24 hours before you plan on making the pizza.
 ### Dough
 1. Mix starter into water and try to break up the starter as well as you can,
 but pockets of starter in the water is still okay. The point of this step is
@@ -101,7 +102,7 @@ refrigerator for up to 2 days.
 I use this
 [recipe](https://www.seriouseats.com/recipes/2010/10/new-york-style-pizza-sauce.html),
 but I use dried basil instead of basil sprigs because I'm not fancy enough to
-have basil sprigs. This sauce can be stored in the refrigerator for up to 2 weeks.
+have basil sprigs. This sauce can be stored in the refrigerator for up to 2 weeks. This whole process takes about 1.5 hours, so I usually start preheating the oven around when the sauce needs to sit and simmer.
 1. Process tomatoes and their juice through food mill, pulse in food
 processor until pureed, or puree with hand blender. Puree should not be
 completely smooth, but should have no chunks larger than 1/16 of an inch. Set
