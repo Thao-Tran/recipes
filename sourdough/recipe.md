@@ -76,7 +76,7 @@ videos at various steps.
 * 70g room temperature (78&deg;F) water
 
 #### Dough (~85% hydration)
-* 185g levain (~20% inoculation) 
+* 175g levain (~20% inoculation) 
 * 811g bread flour
 * 75g rye flour
 * 740g water at 90&deg;F with 80g (~11%) separated
