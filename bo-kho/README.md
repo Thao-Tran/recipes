@@ -24,6 +24,7 @@ pho noodles or alone and dip baguettes into it.
 ### Beef
 1. Wash the beef and drain the water off in a colander.
 2. Cut the beef into ~2 inch cubes.
+
 ### Lemongrass stalks
 1. Peel the outer layer of the lemongrass stalks off and cut the top and
 about 1 inch of the bottom off the stalks.
@@ -37,6 +38,7 @@ thin pieces.
 1. Sprinkle the salt, pepper, garlic plus, bo kho seasoning, and chinese 5
 spice over the beef in a colander and mix until the beef is well covered with
 all the seasoning.
+
 ### Stew
 1. Pour the oil into the pot and cook on high heat until it's shiny (~2 minutes).
 2. Add 1 tbsp of the shredded lemongrass to the pot and spread it apart, then
