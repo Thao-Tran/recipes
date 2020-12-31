@@ -1,6 +1,7 @@
 # Bo Kho
 Also known as beef stew, but the way my mom makes it. You can eat this with
-pho noodles or alone and dip baguettes into it.
+[biang biang noodles](../biang-biang-noodles), pho noodles, or alone and dip
+baguettes into it.
 
 ## Ingredients
 ### Marinade
