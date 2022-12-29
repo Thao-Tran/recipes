@@ -5,12 +5,12 @@ baguettes into it.
 
 ## Ingredients
 ### Marinade
-* 1 kg bottom blade beef
-* 1 tbsp salt
-* 1 tsp ground black pepper
-* 1 tsp garlic plus
-* 2 tbsp bo kho seasoning or enough to cover the beef cubes completely
-* 1 tsp chinese 5 spice
+* 1 kg chuck roast beef (shoulder cut)
+* Bo kho seasoning packet
+* Garlic powder
+* Chinese 5 spice
+* Kosher salt
+* Ground black pepper
 ### Stew
 * 2 tbsp olive oil or enough to cover the bottom of the pot
 * 3/4 cup lemongrass, shredded
@@ -23,8 +23,8 @@ baguettes into it.
 
 ## Prep
 ### Beef
-1. Wash the beef and drain the water off in a colander.
-2. Cut the beef into ~2 inch cubes.
+1. Cut the beef into ~2 inch thick steaks.
+2. Generously season the steaks with salt, pepper, bo kho seasoning, and chinese 5 spice.
 
 ### Lemongrass stalks
 1. Peel the outer layer of the lemongrass stalks off and cut the top and
