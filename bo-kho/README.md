@@ -106,19 +106,24 @@ baguettes into it.
 ### Prep
 **Note:** I usually prep and start the browning for the beef first and do the
 vegetable prep while I wait for the beef to brown.
+
 #### Beef
 1. Cut the beef into ~2 inch thick steaks.
 2. Generously season the steaks with salt, pepper, bo kho seasoning, chinese 5
    spice, and garlic powder.
+
 #### Carrots
 1. Wash and peel carrots.
 2. Split 1/5 of the carrots into thirds, crosswise.
 3. Cut 4/5 of the carrots into ~1 inch sections.
+
 #### Onion
 1. Wash and scrub onion with peel on.
 2. Cut in half, lengthwise.
+
 #### Garlic
 1. Wash and scrub garlic cloves with peels on.
+
 #### Lemongrass stalks
 1. Wash the stalks and then cut into 3 - 4 inch pieces.
 2. Using whatever strong and heavy utensil you have around (I use the butt of my
@@ -133,12 +138,14 @@ vegetable prep while I wait for the beef to brown.
    is shimmering and just before smoking (~2 minutes).
 2. Add steaks and cook until each side is browned (~10 minutes total).
 3. Remove steaks and let cool before cutting the beef into large (~2 inch) cubes.
+
 #### Carrots
 1. If there's not enough oil left in pot to cover the bottom, add more and let
    heat until shimmering.
 2. Add ~1 inch carrot sections and cook until each side is browned (~5 minutes
    total).
 3. Remove carrots and set aside.
+
 #### Rest of the vegetables
 1. If there's not enough oil left in pot to cover the bottom, add more and let
    heat until shimmering.
